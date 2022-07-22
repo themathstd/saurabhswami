@@ -21,3 +21,4 @@ firstPRMergeComment: "Congrats on getting your first pull request to Jekyll Remo
 
 # Bug workaround
 contact_links: []
+remote_theme: benbalter/retlab
